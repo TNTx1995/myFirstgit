@@ -1,1 +1,4 @@
-git first add 
+git first add  
+ax +by +c = 0
+y  = mx+c
+dy/dx = d/dx(ax+by+c)
